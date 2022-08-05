@@ -33,7 +33,7 @@ body {
     text-align: center;
     background-color: rgb(232, 247, 247);
     border-radius: 6px;
-    border-color: aquamarine;
+    border-color: rgba(7,86,93,1);
 }
 .win {
     width: 100%;
