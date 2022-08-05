@@ -24,7 +24,7 @@ body {
 .mark {
     width: 100px;
     height: 100px;
-    border: 2px solid gray;
+    border: 2px solid grey;
     box-sizing: border-box;
     font-size: 80px;
     font-weight: 700;
